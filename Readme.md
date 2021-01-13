@@ -9,7 +9,7 @@
 
 - 🌱 I'm always learning and teaching, I love both things.
 
-- 👨‍💻 All of my projects are available at here :octocat:
+- 👨‍💻 Almost of my projects are available at here :octocat:
 
 - 💬 Ask me about **whatever you want >.<. I will try answer!**
 
