@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [Konecta Perú](https://www.grupokonecta.com/somos-globales/peru/) and @AdathinkLab as a mentor 💛
 
-- 📚 I'm learning Python 💚
+- 📚 I'm learning ReactJs and Python 💚
 
 - 🌱 I'm always learning and teaching, I love both things.
 
