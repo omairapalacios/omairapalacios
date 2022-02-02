@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working at [Konecta Perú](https://www.grupokonecta.com/somos-globales/peru/) and @AdathinkLab as a mentor 💛
 
-- 📚 I'm learning ReactJs and Python 💚
+- 📚 I'm love cloud technologies 🌨
 
-- 🌱 I'm always learning and teaching, I love both things.
+- 🌱 I'm always learning and teaching, I like both things.
 
 - 👨‍💻 Almost all my projects are available at here :octocat:
 
 - 💬 Ask me about **whatever you want >.<. I will try answer!**
 
-- 📫 How to reach me **omairapalacios95@gmail.com**
+- 📫 How to reach me **omairapalaciosanchez@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,12 +24,13 @@
 <a href="https://linkedin.com/in/omairapalacios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="omairapalacios" height="25" width="25" /></a>
 <a href="https://twitter.com/omairapalacioss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="omairapalacioss" height="25" width="25" /></a>
 <a href="https://instagram.com/omaira.ps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="omairapalacios" height="25" width="25" /></a>
-<a href="https://dev.to/omairapalacios" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="omairapalacios" height="25" width="25" /></a>
-</p>
 
 <h3 align="left">Achievements:</h3>
 
-
+**1st Place: I Puesto Blockchain iChallenge 1551 “Los Desafíos del Bicentenario" - Perú** 
+Member of the Peru Neutro team. We developed a web platform to record people's carbon footprint.
+  Technologies Used: IBM Blockchain Platform, Vuejs & NodeJs.
+  
 **1st Place: Legal Hackathon - Perú** 
 
 Member of the MARIO development team, a Virtual Assistant integrated into Microsoft Teams, trained to provide legal information to the internal clients of the Centenario company.
