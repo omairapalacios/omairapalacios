@@ -27,7 +27,7 @@
 
 <h3 align="left">Achievements:</h3>
 
-**1st Place: I Puesto Blockchain iChallenge 1551 “Los Desafíos del Bicentenario" - Perú** 
+**1st Place: Blockchain iChallenge 1551 “Los Desafíos del Bicentenario" - Perú** 
 
 Member of the Peru Neutro team. We developed a web platform to record people's carbon footprint.
   Technologies Used: IBM Blockchain Platform, Vuejs & NodeJs.
