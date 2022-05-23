@@ -6,7 +6,7 @@
 
 </div>
 
-- 🔭 I’m currently working at [Konecta Perú](https://www.grupokonecta.com/somos-globales/peru/) as a Lead Tech and @AdathinkLab as a mentor 💛
+- 🔭 I’m currently working at [Konecta Perú](https://www.grupokonecta.com/somos-globales/peru/) as a Tech Lead and @AdathinkLab as a mentor 💛
 
 - 🌱 I'm always learning and teaching, I like both things.
 
