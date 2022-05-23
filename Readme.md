@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working at [Konecta Perú](https://www.grupokonecta.com/somos-globales/peru/) as a Lead Tech and @AdathinkLab as a mentor 💛
 
-- 📚 I'm love cloud technologies 🌨
-
 - 🌱 I'm always learning and teaching, I like both things.
 
 - 👨‍💻 Almost all my projects are available at here :octocat:
