@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omaira Palacios</h1>
-<h3 align="center"> Bachelor Engineer and a passionate Fullstack JS Developer</h3>  
+<h3 align="center"> Bachelor Engineer and a passionate Fullstack JS Developer</h3> 
+<h4 align="center"> Cloud Technology Lover ♥ 🌨 </h3>  
 <p align="center">"Let's change the world through lines of code"</p>
 <div align="center">
 
 </div>
 
-- 🔭 I’m currently working at [Konecta Perú](https://www.grupokonecta.com/somos-globales/peru/) and @AdathinkLab as a mentor 💛
+- 🔭 I’m currently working at [Konecta Perú](https://www.grupokonecta.com/somos-globales/peru/) as a Lead Tech and @AdathinkLab as a mentor 💛
 
 - 📚 I'm love cloud technologies 🌨
 
