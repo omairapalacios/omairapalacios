@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omaira Palacios</h1>
-<h3 align="center"> Bachelor Engineer and a passionate Fullstack JS Developer</h3> 
+<h3 align="center"> Bachelor Engineer and Developer</h3> 
 <h4 align="center"> Cloud Technology Lover ♥ 🌨 </h3>  
 <p align="center">"Let's change the world through lines of code"</p>
 <div align="center">
